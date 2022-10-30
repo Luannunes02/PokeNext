@@ -1,0 +1,11 @@
+.about {
+    width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;   
+}
+
+.about h1 {
+    margin-top: 40px;
+}
