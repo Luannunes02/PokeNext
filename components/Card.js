@@ -1,11 +1,12 @@
 import Link from 'next/link'
+import Image from 'next/image'
 
 import styles from '../styles/Card.module.css'
 
 export default function Card({pokemon}) {
     return (
         <div className={styles.card}>
-            <img 
+            <Image 
             src={`https://cdn.traction.one/pokedex/pokemon/${pokemon.id}.png`}
             width='120'
             height='120'
