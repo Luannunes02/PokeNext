@@ -15,6 +15,7 @@
 <div style='display:inline_block;'>
   <img align='center' alt='NextJs' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>  
   <img align='center' alt='CSS3' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/> 
+  API
 </div>
 <br><br>
 
